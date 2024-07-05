@@ -14,4 +14,4 @@ spec:
   - to:
     - podSelector:
         matchLabels:
-          app: deploy2
+          app: guestbook-server
