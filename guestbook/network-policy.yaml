@@ -14,4 +14,4 @@ spec:
   - to:
     - podSelector:
         matchLabels:
-          app: guestbook-server-v5
+          app: guestbook-server-v6
